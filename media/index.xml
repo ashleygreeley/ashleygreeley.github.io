@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ashley D. Greeley</title>
-    <link>https://ashleygreeley.github.io/</link>
-    <description>Recent content on Ashley D. Greeley</description>
+    <title>Media on Ashley D. Greeley</title>
+    <link>https://ashleygreeley.github.io/media/</link>
+    <description>Recent content in Media on Ashley D. Greeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Sep 2022 21:24:18 -0400</lastBuildDate><atom:link href="https://ashleygreeley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 21:24:18 -0400</lastBuildDate><atom:link href="https://ashleygreeley.github.io/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Physstudent</title>
       <link>https://ashleygreeley.github.io/media/physstudent/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://ashleygreeley.github.io/media/herkyjerky/</guid>
       <description>The Herky Jerky Weirdness of Earth&amp;rsquo;s Magnetic Field Read the article on EOS here! Tidbit: &amp;ldquo;But sometimes a satellite is just unlucky. Ashley Greeley, a postdoctoral scholar at NASA Goddard Space Flight Center, recalled a CubeSat that died shortly after launch. During start-up checks and the commissioning phase, “we think that an energetic particle hit it in the wrong place at the wrong time, and we never got data, unfortunately,” she said.</description>
-    </item>
-    
-    <item>
-      <title>First post</title>
-      <link>https://ashleygreeley.github.io/blog/firstpost/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      
-      <guid>https://ashleygreeley.github.io/blog/firstpost/</guid>
-      <description>I am delving into the world of content management. I&amp;rsquo;m hoping to make my codes and projects more available to the public, and to anyone who is looking to replicate my results. Let me know if there&amp;rsquo;s anything you&amp;rsquo;re looking for that isn&amp;rsquo;t here, or if you need help deciphering my code. As a warning, just because I am open to sharing my code does not mean that it&amp;rsquo;s elegant.</description>
     </item>
     
   </channel>
