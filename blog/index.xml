@@ -6,11 +6,22 @@
     <description>Recent content in Blogs on Ashley D. Greeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="https://ashleygreeley.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 23:07:14 -0400</lastBuildDate><atom:link href="https://ashleygreeley.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CuSP on Artemis</title>
+      <link>https://ashleygreeley.github.io/blog/artemis/</link>
+      <pubDate>Wed, 21 Sep 2022 23:07:14 -0400</pubDate>
+      
+      <guid>https://ashleygreeley.github.io/blog/artemis/</guid>
+      <description>I worked on the CuSP (CubeSat to study Solar Particles), and am so excited to see it launch! The current launch date has been pushed back to September 27, but if that increases the chance for success, I&amp;rsquo;m glad for it.
+Here&amp;rsquo;s a link that talks about the CubeSats on Artemis. CuSP will be studying interplanetary ions.
+The CubeSat to study Solar Particles, or CuSP, will hitch a ride out of Earths orbit on #Artemis I.</description>
+    </item>
+    
     <item>
       <title>First post</title>
       <link>https://ashleygreeley.github.io/blog/firstpost/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <pubDate>Fri, 03 Sep 2021 20:53:58 +0530</pubDate>
       
       <guid>https://ashleygreeley.github.io/blog/firstpost/</guid>
       <description>I am delving into the world of content management. I&amp;rsquo;m hoping to make my codes and projects more available to the public, and to anyone who is looking to replicate my results. Let me know if there&amp;rsquo;s anything you&amp;rsquo;re looking for that isn&amp;rsquo;t here, or if you need help deciphering my code. As a warning, just because I am open to sharing my code does not mean that it&amp;rsquo;s elegant.</description>
