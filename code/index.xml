@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on Ashley D. Greeley</title>
+    <link>https://ashleygreeley.github.io/code/</link>
+    <description>Recent content in Codes on Ashley D. Greeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2023 12:46:14 -0400</lastBuildDate><atom:link href="https://ashleygreeley.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fitting PADs</title>
+      <link>https://ashleygreeley.github.io/code/padcode/</link>
+      <pubDate>Wed, 14 Jun 2023 12:46:14 -0400</pubDate>
+      
+      <guid>https://ashleygreeley.github.io/code/padcode/</guid>
+      <description>For my recent studies on the evolution of electron pitch angle distributions (PADs) in Earth&amp;rsquo;s radiation belts, I developed a code to take Van Allen Probes MagEIS and REPT electron data and fit the PADs with a sin^n function. It fits PADs for every spin of the twin spacecraft. There is currently a Zenodo doi, so if you find this code useful, please cite!
+Get the package here</description>
+    </item>
+    
+  </channel>
+</rss>
