@@ -6,15 +6,14 @@
     <description>Recent content in day to day on Ashley D. Greeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Sep 2021 20:53:58 +0530</lastBuildDate><atom:link href="https://ashleygreeley.github.io/tags/day-to-day/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 20:53:58 +0530</lastBuildDate>
+    <atom:link href="https://ashleygreeley.github.io/tags/day-to-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
       <link>https://ashleygreeley.github.io/blog/firstpost/</link>
       <pubDate>Fri, 03 Sep 2021 20:53:58 +0530</pubDate>
-      
       <guid>https://ashleygreeley.github.io/blog/firstpost/</guid>
       <description>I am delving into the world of content management. I&amp;rsquo;m hoping to make my codes and projects more available to the public, and to anyone who is looking to replicate my results. Let me know if there&amp;rsquo;s anything you&amp;rsquo;re looking for that isn&amp;rsquo;t here, or if you need help deciphering my code. As a warning, just because I am open to sharing my code does not mean that it&amp;rsquo;s elegant.</description>
     </item>
-    
   </channel>
 </rss>

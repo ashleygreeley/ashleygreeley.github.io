@@ -6,125 +6,105 @@
     <description>Recent content on Ashley D. Greeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 12:46:44 -0400</lastBuildDate><atom:link href="https://ashleygreeley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 10:55:13 -0400</lastBuildDate>
+    <atom:link href="https://ashleygreeley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science Friday Newsletter</title>
+      <link>https://ashleygreeley.github.io/media/scifri/</link>
+      <pubDate>Thu, 04 Apr 2024 10:55:13 -0400</pubDate>
+      <guid>https://ashleygreeley.github.io/media/scifri/</guid>
+      <description>Coworker Patrick Haas and I were interviewed for a Science Friday Newsletter by Robin Kazmier. The article just came out! It&amp;rsquo;s called &amp;ldquo;How do eclipse glasses actually work&amp;rdquo;. Check it out here</description>
+    </item>
+    <item>
+      <title>Total Solar Eclipse Local News Interviews</title>
+      <link>https://ashleygreeley.github.io/media/eclipse2024/</link>
+      <pubDate>Thu, 04 Apr 2024 10:42:26 -0400</pubDate>
+      <guid>https://ashleygreeley.github.io/media/eclipse2024/</guid>
+      <description>On April 3, 2024, I spoke with 9 different local news stations around the country about the eclipse, eclipse safety, and how to get involved with citizen science projects with NASA! You too can learn more at go.nasa.gov/Eclipse2024. The contiguous US will be in a good location to see at least a partial eclipse, with 31 million people already living along the path of totality. Watch below!&#xA;Fox4 KDFW Dallas-Fort Worth</description>
+    </item>
     <item>
       <title>Goddard on the Green</title>
       <link>https://ashleygreeley.github.io/fun/imnotafraid/</link>
       <pubDate>Wed, 14 Jun 2023 12:46:44 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/fun/imnotafraid/</guid>
-      <description>On June 13, 2023, Goddard had a fun event called Goddard on the Green. The Goddard theater group, MAD (Music And Drama), was invite to perform a few songs. I sang &amp;ldquo;I&amp;rsquo;m not afraid of anything&amp;rdquo; from Songs from a New World and &amp;ldquo;Part of Your World&amp;rdquo; from the Little Mermaid. It was fun to sing for an audience! See below for YouTube links.
-I&amp;rsquo;m not Afraid of Anything
-Part of Your World</description>
+      <description>On June 13, 2023, Goddard had a fun event called Goddard on the Green. The Goddard theater group, MAD (Music And Drama), was invite to perform a few songs. I sang &amp;ldquo;I&amp;rsquo;m not afraid of anything&amp;rdquo; from Songs from a New World and &amp;ldquo;Part of Your World&amp;rdquo; from the Little Mermaid. It was fun to sing for an audience! See below for YouTube links.&#xA;I&amp;rsquo;m not Afraid of Anything&#xA;Part of Your World</description>
     </item>
-    
     <item>
       <title>fitting PADs</title>
       <link>https://ashleygreeley.github.io/code/padcode/</link>
       <pubDate>Wed, 14 Jun 2023 12:46:14 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/code/padcode/</guid>
-      <description>For my recent studies on the evolution of electron pitch angle distributions (PADs) in Earth&amp;rsquo;s radiation belts, I developed a code to take Van Allen Probes MagEIS and REPT electron data and fit the PADs with a sin^n function. It fits PADs for every spin of the twin spacecraft. There is currently a Zenodo doi, so if you find this code useful, please cite!
-Get the package here</description>
+      <description>For my recent studies on the evolution of electron pitch angle distributions (PADs) in Earth&amp;rsquo;s radiation belts, I developed a code to take Van Allen Probes MagEIS and REPT electron data and fit the PADs with a sin^n function. It fits PADs for every spin of the twin spacecraft. There is currently a Zenodo doi, so if you find this code useful, please cite!&#xA;Get the package here</description>
     </item>
-    
     <item>
       <title>Seminar - Magnetospheric Seminar Series</title>
       <link>https://ashleygreeley.github.io/media/magsem/</link>
       <pubDate>Thu, 13 Oct 2022 11:45:32 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/media/magsem/</guid>
       <description>In March, 2021, I gave a Magnetospheric Seminar Series talk on solid state detectors, titled &amp;ldquo;An experimentalist&amp;rsquo;s approach to solid state detectors.&amp;rdquo; You can watch it here and find more information regarding the seminar series here.</description>
     </item>
-    
     <item>
       <title>CuSP on Artemis</title>
       <link>https://ashleygreeley.github.io/blog/artemis/</link>
       <pubDate>Wed, 21 Sep 2022 23:07:14 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/blog/artemis/</guid>
-      <description>I worked on the CuSP (CubeSat to study Solar Particles), and am so excited to see it launch! The current launch date has been pushed back to September 27, but if that increases the chance for success, I&amp;rsquo;m glad for it.
-Here&amp;rsquo;s a link that talks about the CubeSats on Artemis. CuSP will be studying interplanetary ions.
-The CubeSat to study Solar Particles, or CuSP, will hitch a ride out of Earths orbit on #Artemis I.</description>
+      <description>I worked on the CuSP (CubeSat to study Solar Particles), and am so excited to see it launch! The current launch date has been pushed back to September 27, but if that increases the chance for success, I&amp;rsquo;m glad for it.&#xA;Here&amp;rsquo;s a link that talks about the CubeSats on Artemis. CuSP will be studying interplanetary ions.&#xA;The CubeSat to study Solar Particles, or CuSP, will hitch a ride out of Earths orbit on #Artemis I.</description>
     </item>
-    
     <item>
       <title>A.D. Greeley Papers</title>
       <link>https://ashleygreeley.github.io/papers/</link>
       <pubDate>Wed, 21 Sep 2022 22:28:03 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/papers/</guid>
-      <description>More organization to follow
-Greeley, A. D., Kanekal, S. G., Sibeck, D. G., Schiller, Q., &amp;amp; Baker, D. N. (2021). Evolution of pitch angle distributions of relativistic electrons during geomagnetic storms: Van Allen Probes Observations. Journal of Geophysical Research: Space Physics, 126, e2020JA028335, https://doi.org/10.1029/2020JA028335. Greeley, A.D., Kanekal, S.G., Baker, D.N., Klecker, B., and Schiller, Q. (2019), Quantifying the contribution of microbursts to global electron loss in the radiation belts. Journal of Geophysical Research: Space Physics, 124, 1111-1124, doi:10.</description>
+      <description>More organization to follow&#xA;Greeley, A. D., Kanekal, S. G., Sibeck, D. G., Schiller, Q., &amp;amp; Baker, D. N. (2021). Evolution of pitch angle distributions of relativistic electrons during geomagnetic storms: Van Allen Probes Observations. Journal of Geophysical Research: Space Physics, 126, e2020JA028335, https://doi.org/10.1029/2020JA028335. Greeley, A.D., Kanekal, S.G., Baker, D.N., Klecker, B., and Schiller, Q. (2019), Quantifying the contribution of microbursts to global electron loss in the radiation belts. Journal of Geophysical Research: Space Physics, 124, 1111-1124, doi:10.</description>
     </item>
-    
     <item>
       <title>The Solar Wind: A Heliophysics Sea Shanty (The Wellerman parody)</title>
       <link>https://ashleygreeley.github.io/media/seashanty/</link>
       <pubDate>Wed, 21 Sep 2022 21:55:42 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/media/seashanty/</guid>
       <description>Check out the Helio Sea Shanty on YouTube, here</description>
     </item>
-    
     <item>
       <title>Earth #24Seven</title>
       <link>https://ashleygreeley.github.io/media/earth24seven/</link>
       <pubDate>Wed, 21 Sep 2022 21:45:04 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/media/earth24seven/</guid>
-      <description>&amp;ldquo;Engineer Allison Evans and graduate student scientist Ashley [Greeley] dress in &amp;lsquo;bunny suits&amp;rsquo; for their work to install particle detectors on a CubeSat instrument. The Compact Radiation Belt Explorer (CeREs) will study the bands of energetic particles that surround Earth, known as the Van Allen radiation belts.&amp;rdquo;
-Read more about the #24Seven social media campaign for Earth Day 2016, here</description>
+      <description>&amp;ldquo;Engineer Allison Evans and graduate student scientist Ashley [Greeley] dress in &amp;lsquo;bunny suits&amp;rsquo; for their work to install particle detectors on a CubeSat instrument. The Compact Radiation Belt Explorer (CeREs) will study the bands of energetic particles that surround Earth, known as the Van Allen radiation belts.&amp;rdquo;&#xA;Read more about the #24Seven social media campaign for Earth Day 2016, here</description>
     </item>
-    
     <item>
       <title>Early Career Scientist Spotlight</title>
       <link>https://ashleygreeley.github.io/media/earlycareer/</link>
       <pubDate>Wed, 21 Sep 2022 21:36:14 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/media/earlycareer/</guid>
-      <description>&amp;ldquo;Be stubborn, both in pursuing research and finding the right opportunity. I honestly believe the most important characteristic of a scientist is stubbornly trucking along no matter what (followed closely by the ability to change their mind when confronted with new evidence).&amp;rdquo;
-Read the article on NASA&amp;rsquo;s website here!</description>
+      <description>&amp;ldquo;Be stubborn, both in pursuing research and finding the right opportunity. I honestly believe the most important characteristic of a scientist is stubbornly trucking along no matter what (followed closely by the ability to change their mind when confronted with new evidence).&amp;rdquo;&#xA;Read the article on NASA&amp;rsquo;s website here!</description>
     </item>
-    
     <item>
       <title>Researchers track slowly splitting &#39;dent&#39; in Earth&#39;s magnetic field</title>
       <link>https://ashleygreeley.github.io/media/sciencedaily/</link>
       <pubDate>Wed, 21 Sep 2022 21:34:19 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/media/sciencedaily/</guid>
-      <description>&amp;ldquo;One study, led by NASA heliophysicist Ashley Greeley as part of her doctoral thesis, used two decades of data from SAMPEX to show that the SAA is slowly but steadily drifting in a northwesterly direction. The results helped confirm models created from geomagnetic measurements and showed how the SAA&amp;rsquo;s location changes as the geomagnetic field evolves.&amp;rdquo;&amp;quot;
-Read the article on Science Daily here!</description>
+      <description>&amp;ldquo;One study, led by NASA heliophysicist Ashley Greeley as part of her doctoral thesis, used two decades of data from SAMPEX to show that the SAA is slowly but steadily drifting in a northwesterly direction. The results helped confirm models created from geomagnetic measurements and showed how the SAA&amp;rsquo;s location changes as the geomagnetic field evolves.&amp;rdquo;&amp;quot;&#xA;Read the article on Science Daily here!</description>
     </item>
-    
     <item>
       <title>Physics Student Builds Space Weather Satellite</title>
       <link>https://ashleygreeley.github.io/media/physstudent/</link>
       <pubDate>Wed, 21 Sep 2022 21:24:18 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/media/physstudent/</guid>
-      <description>&amp;ldquo;Ashley Greeley is building a satellite. &amp;ldquo;I know,&amp;rdquo; said Greeley. &amp;ldquo;I tell people that and they always say, &amp;rsquo;that sounds cool!&amp;rsquo; — but seriously, it is really cool.&amp;rdquo;
-Read the article at catholic.edu here!</description>
+      <description>&amp;ldquo;Ashley Greeley is building a satellite. &amp;ldquo;I know,&amp;rdquo; said Greeley. &amp;ldquo;I tell people that and they always say, &amp;rsquo;that sounds cool!&amp;rsquo; — but seriously, it is really cool.&amp;rdquo;&#xA;Read the article at catholic.edu here!</description>
     </item>
-    
     <item>
       <title>The Herky Jerky Weirdness of Earth&#39;s Magnetic Field</title>
       <link>https://ashleygreeley.github.io/media/herkyjerky/</link>
       <pubDate>Wed, 21 Sep 2022 20:52:52 -0400</pubDate>
-      
       <guid>https://ashleygreeley.github.io/media/herkyjerky/</guid>
-      <description>&amp;ldquo;But sometimes a satellite is just unlucky. Ashley Greeley, a postdoctoral scholar at NASA Goddard Space Flight Center, recalled a CubeSat that died shortly after launch. During start-up checks and the commissioning phase, “we think that an energetic particle hit it in the wrong place at the wrong time, and we never got data, unfortunately,” she said.&amp;rdquo;
-Read the article on EOS here! </description>
+      <description>&amp;ldquo;But sometimes a satellite is just unlucky. Ashley Greeley, a postdoctoral scholar at NASA Goddard Space Flight Center, recalled a CubeSat that died shortly after launch. During start-up checks and the commissioning phase, “we think that an energetic particle hit it in the wrong place at the wrong time, and we never got data, unfortunately,” she said.&amp;rdquo;&#xA;Read the article on EOS here! </description>
     </item>
-    
     <item>
       <title>First post</title>
       <link>https://ashleygreeley.github.io/blog/firstpost/</link>
       <pubDate>Fri, 03 Sep 2021 20:53:58 +0530</pubDate>
-      
       <guid>https://ashleygreeley.github.io/blog/firstpost/</guid>
       <description>I am delving into the world of content management. I&amp;rsquo;m hoping to make my codes and projects more available to the public, and to anyone who is looking to replicate my results. Let me know if there&amp;rsquo;s anything you&amp;rsquo;re looking for that isn&amp;rsquo;t here, or if you need help deciphering my code. As a warning, just because I am open to sharing my code does not mean that it&amp;rsquo;s elegant.</description>
     </item>
-    
   </channel>
 </rss>
